@@ -1,0 +1,4 @@
+This script will create a text file and try to encrypt and decrypt it using a given method. 
+
+Additionally it will use 2 key encryption decryption and also use checksum validation on the original file and the received file.
+
